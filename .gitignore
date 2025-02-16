@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.log
+
+# Linux/Ubuntu
+*.swp
+*~
+.DS_Store
+
+# Virtual Environments
+venv/
+.env/
+
+# Logs
+logs/
+*.log
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# ELK Stack (Elasticsearch, Logstash, Kibana)
+elasticsearch/
+logstash/
+kibana/
+*.json
+*.conf
+*.bak
+
+# VirtualBox and Docker
+*.vbox
+*.vdi
+*.dockerignore
