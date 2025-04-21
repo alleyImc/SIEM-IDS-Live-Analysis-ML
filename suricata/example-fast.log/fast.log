@@ -1,0 +1,2 @@
+04/21/2025-15:36:47.481565  [**] [1:2100498:7] GPL ATTACK_RESPONSE id check returned root [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 108.157.52.13:80 -> 10.0.2.15:34576
+04/21/2025-15:41:46.319884  [**] [1:2100498:7] GPL ATTACK_RESPONSE id check returned root [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 108.157.52.13:80 -> 10.0.2.15:60798
